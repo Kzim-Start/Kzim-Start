@@ -8,9 +8,9 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=KziiiM&color=8A63D2&style=flat-square&label=Visitas+ao+perfil" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=Kzim-Start&color=8A63D2&style=flat-square&label=Visitas+ao+perfil" alt="Profile Views"/>
 &nbsp;&nbsp;
-<img src="https://img.shields.io/github/followers/KziiiM?label=seguidores&style=flat-square&color=8A63D2&labelColor=0A0F1E&logo=github" alt="Followers"/>
+<img src="https://img.shields.io/github/followers/Kzim-Start?label=seguidores&style=flat-square&color=8A63D2&labelColor=0A0F1E&logo=github" alt="Followers"/>
 &nbsp;&nbsp;
 <img src="https://img.shields.io/badge/status-dispon%C3%ADvel%20para%20projetos-8A63D2?style=flat-square&labelColor=0A0F1E" alt="Status"/>
 
@@ -84,7 +84,7 @@ const kauan = {
 <div align="center">
 
 [![Gmail](https://img.shields.io/badge/Gmail-kcarvalhodossanto%40gmail.com-8A63D2?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0A0F1E)](mailto:kcarvalhodossanto@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-KziiiM-8A63D2?style=for-the-badge&logo=github&logoColor=white&labelColor=0A0F1E)](https://github.com/KziiiM)
+[![GitHub](https://img.shields.io/badge/GitHub-Kzim--Start-8A63D2?style=for-the-badge&logo=github&logoColor=white&labelColor=0A0F1E)](https://github.com/Kzim-Start)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-kauan--c-8A63D2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A0F1E)](https://www.linkedin.com/in/kauan-c/)
 
 </div>
