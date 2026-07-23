@@ -27,22 +27,32 @@ status  : construindo e aprendendo sempre ⚡
 
 ### 🚀 Sobre mim
 
-- 🔭 Atualmente desenvolvendo projetos full stack com **Python, Java, JavaScript e MySQL**
-- 🌱 Sempre estudando novas ferramentas e boas práticas de desenvolvimento
-- 💡 Curto resolver problemas reais com código simples e eficiente
-- 🎯 Objetivo: escrever código que funcione bem em qualquer lugar — *Write Once, Run Anywhere*
-- ⚡ Fun fact: acredito que o melhor código é aquele que qualquer pessoa consegue entender depois
+<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="280">
+
+```javascript
+const kauan = {
+    codigo: "sempre em evolução 🔥",
+    modo: ["café ☕", "código 💻", "repeat 🔁"],
+    curiosidade: "acredito que bug bonito também é bug",
+    missao: "Write Once, Run Anywhere 🌍",
+};
+```
+
+- 🔭 Criando projetos full stack sem medo de errar
+- 🌱 Aprendendo algo novo praticamente toda semana
+- ⚔️ Debug é meu segundo esporte favorito
+- 🎯 Meta: código limpo, rápido e que roda em qualquer lugar
+- 🤝 Sempre aberto pra trocar ideia sobre projetos e tecnologia
+
+<br clear="right"/>
 
 ---
 
-### 🛠️ O que eu manjo
+### 🧰 Ferramentas & Plataformas
 
-| Área | Tecnologias |
-|---|---|
-| **Backend** | Python, Java |
-| **Frontend** | JavaScript |
-| **Banco de Dados** | MySQL |
-| **Versionamento** | Git & GitHub |
+<div align="center">
+<img src="https://skillicons.dev/icons?i=idea,vscode,mysql,git,github,linux&theme=dark" alt="Ferramentas"/>
+</div>
 
 ---
 
