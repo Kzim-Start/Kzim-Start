@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=2800&pause=800&color=8A63D2&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=Escreva+uma+vez%2C+rode+em+qualquer+lugar+%F0%9F%9A%80;Desenvolvedor+Full+Stack+%F0%9F%92%BB;Python+%7C+Java+%7C+JavaScript+%7C+MySQL;Sempre+aprendendo+algo+novo+%F0%9F%93%9A;Transformando+ideias+em+c%C3%B3digo+%E2%9A%A1" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&duration=2800&pause=800&color=8A63D2&center=true&vCenter=true&multiline=true&repeat=true&width=780&height=110&lines=Escreva+uma+vez%2C+rode+em+qualquer+lugar+%F0%9F%9A%80;Desenvolvedor+Full+Stack+%F0%9F%92%BB;Python+%7C+Java+%7C+JavaScript+%7C+MySQL;Sempre+aprendendo+algo+novo+%F0%9F%93%9A;Transformando+ideias+em+c%C3%B3digo+%E2%9A%A1" alt="Typing SVG" />
 
 <br/><br/>
 
