@@ -1,10 +1,10 @@
-<div align="center">
+**<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=260&section=header&text=Kauan%20Carvalho%20dos%20Santos&fontSize=42&fontColor=FFFFFF&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer&descAlignY=52&descColor=E0E0E0&descSize=17" width="100%"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=2800&pause=800&color=8A63D2&center=true&vCenter=true&multiline=true&repeat=true&width=820&height=140&lines=Escreva+uma+vez%2C+rode+em+qualquer+lugar+%F0%9F%9A%80%0AFull+Stack+Developer+%F0%9F%92%BB;Python+%7C+Java+%7C+JavaScript+%7C+MySQL%0ASempre+aprendendo+algo+novo+%F0%9F%93%9A" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&duration=2800&pause=800&color=8A63D2&center=true&vCenter=true&multiline=true&repeat=true&width=780&height=110&lines=Escreva+uma+vez%2C+rode+em+qualquer+lugar+%F0%9F%9A%80;Desenvolvedor+Full+Stack+%F0%9F%92%BB;Python+%7C+Java+%7C+JavaScript+%7C+MySQL;Sempre+aprendendo+algo+novo+%F0%9F%93%9A;Transformando+ideias+em+c%C3%B3digo+%E2%9A%A1" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -89,4 +89,4 @@ const kauan = {
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:764ba2,100:667eea&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:764ba2,100:667eea&height=100&section=footer" width="100%"/>**
