@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=260&section=header&text=Kauan%20Carvalho%20dos%20Santos&fontSize=42&fontColor=FFFFFF&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer&descAlignY=52&descColor=E0E0E0&descSize=17" width="100%"/>
 <br/>
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&duration=2800&pause=800&color=8A63D2&center=true&vCenter=true&multiline=true&repeat=true&width=780&height=110&lines=Escreva+uma+vez%2C+rode+em+qualquer+lugar+%F0%9F%9A%80;Desenvolvedor+Full+Stack+%F0%9F%92%BB;Python+%7C+Java+%7C+JavaScript+%7C+MySQL;Sempre+aprendendo+algo+novo+%F0%9F%93%9A;Transformando+ideias+em+c%C3%B3digo+%E2%9A%A1" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&duration=2800&pause=800&color=8A63D2&center=true&vCenter=true&multiline=true&repeat=true&width=780&height=110&lines=Escreva+uma+vez%2C+rode+em+qualquer+lugar+%F0%9F%9A%80;Desenvolvedor+Full+Stack+%F0%9F%92%BB;HTML+%7C+CSS+%7C+JavaScript+%7C+Python+%7C+Java+%7C+MySQL;Sempre+aprendendo+algo+novo+%F0%9F%93%9A;Transformando+ideias+em+c%C3%B3digo+%E2%9A%A1" alt="Typing SVG" />
 <br/><br/>
 <img src="https://komarev.com/ghpvc/?username=Kzim-Start&color=8A63D2&style=flat-square&label=Visitas+ao+perfil" alt="Profile Views"/>
 &nbsp;&nbsp;
@@ -20,7 +20,7 @@ idade   : 19 anos
 cursando: Sistemas de Informação
 focus   : Full Stack Development
 motto   : "Write Once, Run Anywhere"
-stack   : Python · Java · JavaScript · MySQL
+stack   : HTML · CSS · JavaScript · Python · Java · MySQL
 status  : construindo e aprendendo sempre ⚡
 ```
 
@@ -60,7 +60,7 @@ const kauan = {
 
 ### ⚡ Tech Stack
 <div align="center">
-<img src="https://skillicons.dev/icons?i=python,java,javascript,mysql,git,github,vscode,linux&theme=dark" alt="Tech Stack"/>
+<img src="https://skillicons.dev/icons?i=html,css,javascript,python,java,mysql,git,github,vscode,linux&theme=dark" alt="Tech Stack"/>
 </div>
 
 ---
