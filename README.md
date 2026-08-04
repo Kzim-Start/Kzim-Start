@@ -15,7 +15,6 @@
 ### `$ whoami`
 ```yaml
 name    : Kauan Carvalho dos Santos
-alias   : KziiiM
 idade   : 19 anos
 cursando: Sistemas de Informação
 focus   : Full Stack Development
