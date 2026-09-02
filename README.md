@@ -53,7 +53,11 @@ const kauan = {
 ---
 ### 🔗 Contato
 <div align="center">
-[![Gmail](https://img.shields.io/badge/Gmail-kcarvalhodossanto%40gmail.com-26D0CE?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1A2980)](mailto:kcarvalhodossanto@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-kauan--c-26D0CE?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1A2980)](https://www.linkedin.com/in/kauan-c/)
+<a href="mailto:kcarvalhodossanto@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-kcarvalhodossanto%40gmail.com-26D0CE?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1A2980" alt="Gmail"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/kauan-c/">
+  <img src="https://img.shields.io/badge/LinkedIn-kauan--c-26D0CE?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1A2980" alt="LinkedIn"/>
+</a>
 </div>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:26D0CE,100:1A2980&height=100&section=footer" width="100%"/>
