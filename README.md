@@ -41,17 +41,17 @@ const kauan = {
 <br clear="right"/>
 <br/>
 ---
-### 🧰 Ferramentas & Plataformas
+🧰 Ferramentas & Plataformas
 <div align="center">
 <img src="https://skillicons.dev/icons?i=idea,vscode,mysql,git,github,linux&theme=dark" alt="Ferramentas"/>
 </div>
 ---
-### ⚡ Tech Stack
+⚡ Tech Stack
 <div align="center">
 <img src="https://skillicons.dev/icons?i=html,css,javascript,python,java,mysql,git,github,vscode,linux&theme=dark" alt="Tech Stack"/>
 </div>
 ---
-### 🔗 Contato
+🔗 Contato
 <div align="center">
 <a href="mailto:kcarvalhodossanto@gmail.com">
   <img src="https://img.shields.io/static/v1?label=Gmail&message=kcarvalhodossanto@gmail.com&color=26D0CE&style=for-the-badge&logo=gmail&logoColor=white&labelColor=1A2980" alt="Gmail"/>
