@@ -54,10 +54,10 @@ const kauan = {
 ### 🔗 Contato
 <div align="center">
 <a href="mailto:kcarvalhodossanto@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-kcarvalhodossanto%40gmail.com-26D0CE?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1A2980" alt="Gmail"/>
+  <img src="https://img.shields.io/static/v1?label=Gmail&message=kcarvalhodossanto@gmail.com&color=26D0CE&style=for-the-badge&logo=gmail&logoColor=white&labelColor=1A2980" alt="Gmail"/>
 </a>
 &nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/kauan-c/">
-  <img src="https://img.shields.io/badge/LinkedIn-kauan--c-26D0CE?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1A2980" alt="LinkedIn"/>
+  <img src="https://img.shields.io/static/v1?label=LinkedIn&message=kauan-c&color=26D0CE&style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1A2980" alt="LinkedIn"/>
 </a>
 </div>
