@@ -1,13 +1,13 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,100:004e92&height=260&section=header&text=Kauan%20Carvalho%20dos%20Santos&fontSize=42&fontColor=FFFFFF&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer&descAlignY=52&descColor=E0E0E0&descSize=17" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A2980,100:26D0CE&height=260&section=header&text=Kauan%20Carvalho%20dos%20Santos&fontSize=42&fontColor=FFFFFF&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer&descAlignY=52&descColor=E0E0E0&descSize=17" width="100%"/>
 <br/>
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&duration=2800&pause=800&color=1E90FF&center=true&vCenter=true&multiline=true&repeat=true&width=780&height=110&lines=Escreva+uma+vez%2C+rode+em+qualquer+lugar+%F0%9F%9A%80;Desenvolvedor+Full+Stack+%F0%9F%92%BB;HTML+%7C+CSS+%7C+JavaScript+%7C+Python+%7C+Java+%7C+MySQL;Sempre+aprendendo+algo+novo+%F0%9F%93%9A;Transformando+ideias+em+c%C3%B3digo+%E2%9A%A1" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&duration=2800&pause=800&color=26D0CE&center=true&vCenter=true&multiline=true&repeat=true&width=780&height=110&lines=Escreva+uma+vez%2C+rode+em+qualquer+lugar+%F0%9F%9A%80;Desenvolvedor+Full+Stack+%F0%9F%92%BB;HTML+%7C+CSS+%7C+JavaScript+%7C+Python+%7C+Java+%7C+MySQL;Sempre+aprendendo+algo+novo+%F0%9F%93%9A;Transformando+ideias+em+c%C3%B3digo+%E2%9A%A1" alt="Typing SVG" />
 <br/><br/>
-<img src="https://komarev.com/ghpvc/?username=Kzim-Start&color=1E90FF&style=flat-square&label=Visitas+ao+perfil" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=Kzim-Start&color=26D0CE&style=flat-square&label=Visitas+ao+perfil" alt="Profile Views"/>
 &nbsp;&nbsp;
-<img src="https://img.shields.io/github/followers/Kzim-Start?label=seguidores&style=flat-square&color=1E90FF&labelColor=000428&logo=github" alt="Followers"/>
+<img src="https://img.shields.io/github/followers/Kzim-Start?label=seguidores&style=flat-square&color=26D0CE&labelColor=1A2980&logo=github" alt="Followers"/>
 &nbsp;&nbsp;
-<img src="https://img.shields.io/badge/status-dispon%C3%ADvel%20para%20projetos-1E90FF?style=flat-square&labelColor=000428" alt="Status"/>
+<img src="https://img.shields.io/badge/status-dispon%C3%ADvel%20para%20projetos-26D0CE?style=flat-square&labelColor=1A2980" alt="Status"/>
 </div>
 ---
 ### `$ whoami`
@@ -53,7 +53,7 @@ const kauan = {
 ---
 ### 🔗 Contato
 <div align="center">
-[![Gmail](https://img.shields.io/badge/Gmail-kcarvalhodossanto%40gmail.com-1E90FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000428)](mailto:kcarvalhodossanto@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-kauan--c-1E90FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000428)](https://www.linkedin.com/in/kauan-c/)
+[![Gmail](https://img.shields.io/badge/Gmail-kcarvalhodossanto%40gmail.com-26D0CE?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1A2980)](mailto:kcarvalhodossanto@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-kauan--c-26D0CE?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1A2980)](https://www.linkedin.com/in/kauan-c/)
 </div>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:004e92,100:000428&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:26D0CE,100:1A2980&height=100&section=footer" width="100%"/>
