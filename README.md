@@ -18,13 +18,13 @@ Construindo aplicações web, explorando engenharia de software e criando projet
 
 ---
 
-### Sobre mim
+## Sobre mim
 
 Sou **Kauan Carvalho dos Santos**, desenvolvedor interessado em construir experiências digitais úteis e bem estruturadas. Estudo **Sistemas de Informação** e desenvolvo projetos que combinam desenvolvimento web, automação, aplicações backend e jogos.
 
 Gosto de aprender construindo: experimentar tecnologias, resolver problemas e evoluir cada projeto de forma contínua.
 
-### Tecnologias e ferramentas
+## Tecnologias e ferramentas
 
 <div align="center">
 
@@ -32,7 +32,7 @@ Gosto de aprender construindo: experimentar tecnologias, resolver problemas e ev
 
 </div>
 
-### Projetos em destaque
+## Projetos em destaque
 
 <table>
 <tr>
@@ -77,7 +77,7 @@ Repositório de projetos e estudos para explorar conceitos e práticas de progra
 </tr>
 </table>
 
-### Atividade no GitHub
+## Atividade no GitHub
 
 <div align="center">
 
@@ -85,7 +85,7 @@ Repositório de projetos e estudos para explorar conceitos e práticas de progra
   <img src="assets/activity-panel.svg" alt="Painel de atividade KZM — clique para consultar as contribuições reais no GitHub" width="100%" />
 </a>
 
-<sub>O painel é ilustrativo. Consulte o gráfico oficial no <a href="https://github.com/Kzim-Start?tab=overview">perfil do GitHub</a>.</sub>
+**Painel ilustrativo.** Para visualizar suas contribuições reais, acesse o [histórico de atividades no GitHub](https://github.com/Kzim-Start?tab=overview).
 
 </div>
 
@@ -93,10 +93,8 @@ Repositório de projetos e estudos para explorar conceitos e práticas de progra
 
 <div align="center">
 
-<sub>Projetar. Construir. Aprender. Melhorar.</sub>
+<h2>Projetar. Construir. Aprender. Melhorar.</h2>
 
-<br />
-
-<a href="https://github.com/Kzim-Start"><b>github.com/Kzim-Start</b></a>
+<h3><a href="https://github.com/Kzim-Start">KZM / START · GitHub</a></h3>
 
 </div>
