@@ -11,15 +11,15 @@
 <rect width="1120" height="300" fill="url(#bg)"/><rect width="1120" height="300" fill="url(#mesh)"/>
 <rect width="7" height="300" fill="url(#line)"/>
 <circle cx="941" cy="103" r="160" fill="#7951CD" fill-opacity=".095"/><circle cx="817" cy="266" r="170" fill="#43B5CF" fill-opacity=".08"/>
-<rect x="45" y="34" width="182" height="29" rx="14.5" fill="#7F5AD1" fill-opacity=".18" stroke="#9478DA" stroke-opacity=".5"/>
-<circle cx="63" cy="48" r="4" fill="#59D8D7"/>
-<text x="77" y="53" font-family="Arial,sans-serif" font-size="12" font-weight="700" fill="#CDBEFF" letter-spacing="1.5">OPEN SOURCE / KZM</text>
-<text x="46" y="113" font-family="Arial,sans-serif" font-size="37" font-weight="800" fill="#F0F4FF">Código em evolução.</text>
-<text x="46" y="147" font-family="Arial,sans-serif" font-size="17" fill="#B8C2E0">Explore meus commits, projetos e contribuições</text>
-<text x="46" y="172" font-family="Arial,sans-serif" font-size="17" fill="#B8C2E0">diretamente no meu perfil do GitHub.</text>
-<rect x="46" y="201" width="267" height="54" rx="11" fill="#7E5DEA" stroke="#AD97FF" stroke-opacity=".6"/>
-<text x="66" y="235" font-family="Arial,sans-serif" font-size="17" font-weight="700" fill="#FFFFFF">VER CONTRIBUIÇÕES</text><path d="M276 228h18m-8-8l8 8-8 8" fill="none" stroke="#FFFFFF" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
-<text x="47" y="285" font-family="Arial,sans-serif" font-size="12" letter-spacing=".4" fill="#8D9CBC">Ilustração do fluxo de desenvolvimento · Dados ao vivo no GitHub</text>
+<rect x="45" y="34" width="248" height="33" rx="16.5" fill="#7F5AD1" fill-opacity=".18" stroke="#9478DA" stroke-opacity=".5"/>
+<circle cx="65" cy="49" r="4" fill="#59D8D7"/>
+<text x="82" y="55" font-family="Arial,sans-serif" font-size="19" font-weight="700" fill="#CDBEFF" letter-spacing="1.5">OPEN SOURCE / KZM</text>
+<text x="46" y="119" font-family="Arial,sans-serif" font-size="48" font-weight="800" fill="#F0F4FF">Código em evolução.</text>
+<text x="46" y="158" font-family="Arial,sans-serif" font-size="23" fill="#D4DBF0">Explore meus commits, projetos e contribuições</text>
+<text x="46" y="191" font-family="Arial,sans-serif" font-size="17" fill="#B8C2E0">diretamente no meu perfil do GitHub.</text>
+<rect x="46" y="211" width="334" height="56" rx="11" fill="#7E5DEA" stroke="#AD97FF" stroke-opacity=".6"/>
+<text x="66" y="247" font-family="Arial,sans-serif" font-size="21" font-weight="700" fill="#FFFFFF">VER CONTRIBUIÇÕES</text><path d="M337 237h18m-8-8l8 8-8 8" fill="none" stroke="#FFFFFF" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+
 <g transform="translate(589 47)">
 <path d="M48 182V83Q48 58 74 58H153Q171 58 171 36V21" stroke="#B394FF" stroke-width="7" stroke-linecap="round" fill="none"/>
 <path d="M48 182V96Q48 84 65 84H247Q275 84 275 57V21" stroke="#66CED8" stroke-width="7" stroke-linecap="round" fill="none" opacity=".95"/>
@@ -28,8 +28,8 @@
 <circle cx="171" cy="20" r="14" fill="#161B31" stroke="#AD95FF" stroke-width="7"/>
 <circle cx="275" cy="20" r="14" fill="#161B31" stroke="#72DBE1" stroke-width="7"/>
 <circle cx="394" cy="147" r="14" fill="#161B31" stroke="#AD95FF" stroke-width="7"/>
-<rect x="102" y="43" width="117" height="29" rx="8" fill="#292345" stroke="#9474D5"/><text x="116" y="62" fill="#E4D7FE" font-size="14" font-family="monospace">feature/*</text>
-<rect x="232" y="105" width="86" height="29" rx="8" fill="#123749" stroke="#5595AE"/><text x="244" y="124" fill="#AEEBF2" font-size="14" font-family="monospace">review</text>
-<rect x="321" y="209" width="119" height="29" rx="8" fill="#292345" stroke="#9474D5"/><text x="340" y="228" fill="#E4D7FE" font-size="14" font-family="monospace">main ●</text>
+<rect x="102" y="43" width="146" height="33" rx="8" fill="#292345" stroke="#9474D5"/><text x="116" y="65" fill="#E4D7FE" font-size="19" font-family="monospace">feature/*</text>
+<rect x="232" y="105" width="101" height="33" rx="8" fill="#123749" stroke="#5595AE"/><text x="244" y="128" fill="#AEEBF2" font-size="14" font-family="monospace">review</text>
+<rect x="321" y="209" width="125" height="33" rx="8" fill="#292345" stroke="#9474D5"/><text x="335" y="232" fill="#E4D7FE" font-size="14" font-family="monospace">main ●</text>
 </g>
 </g></svg>
