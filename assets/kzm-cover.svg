@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="330" viewBox="0 0 1280 330" role="img" aria-labelledby="title desc">
+<title id="title">Kauan Carvalho — KZM Start</title><desc id="desc">Banner escuro de desenvolvedor com detalhes violeta e ciano e janela de código.</desc>
+<defs>
+<linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop offset="0" stop-color="#0B1123"/><stop offset=".55" stop-color="#11152C"/><stop offset="1" stop-color="#16112D"/></linearGradient>
+<linearGradient id="accent" x1="0" x2="1"><stop offset="0" stop-color="#9868FF"/><stop offset="1" stop-color="#4FE0E5"/></linearGradient>
+<radialGradient id="glow"><stop stop-color="#854AFF" stop-opacity=".26"/><stop offset="1" stop-color="#854AFF" stop-opacity="0"/></radialGradient>
+<pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse"><path d="M42 0H0V42" fill="none" stroke="#ADB7F9" stroke-opacity=".055" stroke-width="1"/></pattern>
+<clipPath id="outer"><rect width="1280" height="330" rx="18"/></clipPath>
+</defs>
+<g clip-path="url(#outer)">
+<rect width="1280" height="330" fill="url(#bg)"/><rect width="1280" height="330" fill="url(#grid)"/><circle cx="1110" cy="60" r="280" fill="url(#glow)"/>
+<path d="M0 0H8V330H0Z" fill="url(#accent)"/>
+<path d="M654 25L880 251M838 -28L1066 200M1105 0L1280 172" fill="none" stroke="#B18AFF" stroke-opacity=".08" stroke-width="2"/>
+<rect x="72" y="38" width="173" height="30" rx="15" fill="#B58DFF" fill-opacity=".11" stroke="#A986FF" stroke-opacity=".5"/>
+<circle cx="91" cy="53" r="4" fill="#50D7D1"/><text x="105" y="58" fill="#C7ADFF" font-size="14" font-weight="700" font-family="Arial,Helvetica,sans-serif" letter-spacing="2">KZM / START</text>
+<text x="70" y="149" fill="#F8F9FF" font-size="75" font-weight="800" font-family="Arial,Helvetica,sans-serif" letter-spacing="-2">KAUAN</text>
+<text x="70" y="218" fill="#F8F9FF" font-size="75" font-weight="800" font-family="Arial,Helvetica,sans-serif" letter-spacing="-2">CARVALHO</text>
+<rect x="73" y="239" width="58" height="4" rx="2" fill="url(#accent)"/>
+<text x="73" y="275" fill="#AEB9D9" font-size="19" font-family="Arial,Helvetica,sans-serif" letter-spacing="2">FULL STACK DEVELOPER</text>
+<text x="73" y="303" fill="#AEB9D9" font-size="14" font-family="Arial,Helvetica,sans-serif" letter-spacing="1">SOFTWARE  /  BACKEND  /  CREATIVE PROJECTS</text>
+<g transform="translate(846 59)">
+<rect width="366" height="227" rx="16" fill="#0A1021" stroke="#7775B5" stroke-opacity=".38" stroke-width="1.5"/>
+<path d="M0 43H366" stroke="#7775B5" stroke-opacity=".3"/>
+<circle cx="22" cy="22" r="5" fill="#F57C94"/><circle cx="42" cy="22" r="5" fill="#EFC576"/><circle cx="62" cy="22" r="5" fill="#5ACCA9"/>
+<text x="89" y="27" fill="#919FBF" font-size="12" font-family="Arial,Helvetica,sans-serif" letter-spacing="1">developer.ts</text>
+<text x="22" y="75" fill="#7B89AA" font-size="16" font-family="monospace">01</text><text x="60" y="75" fill="#A589FF" font-size="16" font-family="monospace">const</text><text x="115" y="75" fill="#DBE3FD" font-size="16" font-family="monospace">developer = {</text>
+<text x="22" y="107" fill="#7B89AA" font-size="16" font-family="monospace">02</text><text x="80" y="107" fill="#71DADB" font-size="16" font-family="monospace">focus:</text><text x="149" y="107" fill="#EAC38B" font-size="16" font-family="monospace">'build',</text>
+<text x="22" y="139" fill="#7B89AA" font-size="16" font-family="monospace">03</text><text x="80" y="139" fill="#71DADB" font-size="16" font-family="monospace">mindset:</text><text x="169" y="139" fill="#EAC38B" font-size="16" font-family="monospace">'learn',</text>
+<text x="22" y="171" fill="#7B89AA" font-size="16" font-family="monospace">04</text><text x="80" y="171" fill="#71DADB" font-size="16" font-family="monospace">status:</text><text x="159" y="171" fill="#EAC38B" font-size="16" font-family="monospace">'creating'</text>
+<text x="22" y="203" fill="#7B89AA" font-size="16" font-family="monospace">05</text><text x="60" y="203" fill="#DBE3FD" font-size="16" font-family="monospace">};</text>
+</g>
+</g></svg>
