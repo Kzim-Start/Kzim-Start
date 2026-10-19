@@ -81,7 +81,11 @@ Repositório de projetos e estudos para explorar conceitos e práticas de progra
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kzim-Start&bg_color=0d1117&color=a7b4d2&line=9977ff&point=5ed9df&area=true&area_color=493579&hide_border=true&custom_title=Contribuicoes%20e%20atividade" alt="Gráfico de atividade do GitHub" width="100%" />
+<a href="https://github.com/Kzim-Start?tab=overview&from=2026-01-01&to=2026-12-31">
+  <img src="assets/activity-panel.svg" alt="Painel de atividade KZM — clique para consultar as contribuições reais no GitHub" width="100%" />
+</a>
+
+<sub>O painel é ilustrativo. Consulte o gráfico oficial no <a href="https://github.com/Kzim-Start?tab=overview">perfil do GitHub</a>.</sub>
 
 </div>
 
